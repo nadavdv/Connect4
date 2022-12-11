@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+
+#board{
+
+    height: 540px;
+    width: 630px;
+    background-color: blue;
+    border: 10px solid navy;
+
+    margin: auto;
+    /* display: grid; */
+    /* flex-wrap: wrap; */
+    
+    display:flex ;
+    /* flex-direction: column; */
+}
+
+.tile{
+    display: flex;
+    margin: 5px;
+    height: 76px;
+    width: 76px;
+    background-color: white;
+    border: 2px solid navy;
+    border-radius: 50%;
+}
+
+.col{
+    display:flex ;
+    flex-direction: column;
+}
+
+.yellowPlayer{
+    background-color:  yellow;
+}
+
+.redPlayer{
+    background-color:  red;
+}
+
+.yellowPlayerHover{
+    background-color: rgb(255, 255, 182);
+}
+
+.redPlayerHover{
+    background-color: rgb(255, 160, 160);
+}
