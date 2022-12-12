@@ -1,5 +1,16 @@
+# Connect 4 
 
+The classic connect 4 implemented with html, css and js. 
 
-nadav the mechona
+## Instructions
 
-blablablablablablablablablabalbalbalbalbalbablabl
+Open html file and start playing!
+Refresh to start over
+
+### second update 
+
+bla bla bla
+
+######
+
+erez the mechona
